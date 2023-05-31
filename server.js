@@ -15,7 +15,7 @@ res.send('Hello Node API')
 
 app.get('/blog', (req,res) => {
 
-    res.send('Bloggggg Van Thibeeee')
+    res.send('Bloggggg Van Thibeeeee')
    
     })
 
